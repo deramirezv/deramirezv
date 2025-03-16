@@ -6,7 +6,7 @@
 I’m a Mechanical Design Engineer with a passion for automation, manufacturing technologies, and software development. My journey started in the world of mechanical engineering and product design, but over time, I found myself drawn to programming and automation to streamline workflows and improve efficiency in manufacturing and engineering environments.
 
 🚀 Current Role |
-I currently work as a Product Owner at Nucor Insulated Metal Panels (NIPG), part of the Nucor Corporation, where I bridge the gap between engineering, automation, and software development. My role involves defining the vision and strategy for design automation solutions, working closely with development teams to implement Autodesk platforms and solutions, and optimizing workflows through API integrations and process automation.
+I currently work as a Product Owner at Nucor Insulated Panel Group (NIPG), part of the Nucor Corporation, where I bridge the gap between engineering, automation, and software development. My role involves defining the vision and strategy for design automation solutions, working closely with development teams to implement Autodesk platforms and solutions, and optimizing workflows through API integrations and process automation.
 
 💻 Programming Journey |
 Though I’m still early in my software development journey (~12 months of experience, maybe a little more), I’m actively learning and building solutions such as Autodesk Inventor Add-Ins, diving deep into C#, .NET, Visual Studio, VSCode, and Azure DevOps. I enjoy tackling complex problems and refining my approach to optimize performance and usability.

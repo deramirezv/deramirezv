@@ -15,7 +15,7 @@ Though I’m still early in my software development journey (~12 months of exper
 Beyond work, I’m also a co-founder of Consultips Group, LLC., where I applied my expertise in manufacturing, project management, and engineering consulting. Whether it’s product fabrication or structural steel detailing, I’m always looking for ways to integrate technology and automation into traditional industries.
 
 📂 What You’ll Find Here |
-This GitHub serves as my learning hub and project showcase—expect (sometimes). You'll probably find iLogic scripts, Inventor API projects, and automation tools that enhance the way engineers and designers interact with CAD software. I'm a CAD enthusiast. 
+This GitHub serves as my learning hub and project showcase (sometimes). You'll probably find iLogic scripts, Inventor API projects, and automation tools that enhance the way engineers and designers interact with CAD software. I'm a CAD enthusiast. 
 
 I’m always open to learning, collaborating, and sharing insights, so feel free to connect!
 

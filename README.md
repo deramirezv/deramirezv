@@ -19,4 +19,4 @@ This GitHub serves as my learning hub and project showcase (sometimes). You'll p
 
 I’m always open to learning, collaborating, and sharing insights, so feel free to connect!
 
-[📩 Let’s Build Something Amazing!](mailto:deramirezv@gmail.com)
+[📩 Let’s Build Something Amazing!](https://linktr.ee/deramirezv)

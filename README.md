@@ -19,6 +19,6 @@ This GitHub serves as my learning hub and project showcase (sometimes). You'll p
 
 I’m always open to learning, collaborating, and sharing insights, so feel free to connect!
 
-[![Get in touch](https://img.shields.io/badge/Visit%20My%20Site-%F0%9F%91%BB-blue?style=for-the-badge)]([https://linktr.ee/deramirezv])]
+[![Get in touch](https://img.shields.io/badge/Visit%20My%20Site-%F0%9F%91%BB-blue?style=for-the-badge)]([https://linktr.ee/deramirezv])
 
-[![Visit my Site](https://img.shields.io/badge/Visit%20My%20Site-%F0%9F%91%BB-blue?style=for-the-badge)]([https://danielramirez.id/])]
+[![Visit my Site](https://img.shields.io/badge/Visit%20My%20Site-%F0%9F%91%BB-blue?style=for-the-badge)]([https://danielramirez.id/])
